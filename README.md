@@ -9,6 +9,7 @@
 
 <h3> Validated knowledge </h3>
 
+<div align="center">
 <a href="https://www.credly.com/badges/a1c977a8-6bf9-4da3-af56-7ef40690ff33"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=130 alt="AWS Certified Cloud Practitioner - Jorge Luis Salcedo Prado"></a>
 <a href="https://www.credly.com/badges/a00c3264-94f4-4ab9-a834-bc0f5f74e865"><img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" height=130 alt="AWS Certified SysOps Administrator Associate - Jorge Luis Salcedo Prado"></a>
 <a href="https://www.credly.com/badges/172239cf-6b65-4e95-9e15-7438760a94d3"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height=130 alt="AWS Certified Solutions Architect Associate - Jorge Luis Salcedo Prado"></a>
@@ -20,7 +21,7 @@
 <a href="https://www.credly.com/badges/b5da4370-ad43-4881-8205-a0af033d4612"><img src="https://images.credly.com/size/680x680/images/60dbe6ec-05b8-45cd-9deb-d220bc19b7e1/image.png" height=120 alt="Amazon Connect Communications Specialist - Jorge Luis Salcedo Prado"></a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCBDDC87D9AD5E79F07F7357FEA67D85A4E18C53CA7C85F2302162B8672973C5"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024MCCA.png" height=120 alt="Oracle Cloud Infrastructure Multicloud Architect Associate - Jorge Luis Salcedo Prado"></a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCBDDC87D9AD5E79F07F7357FEA67D852C86ADADDD3369793034489E343E5EDB"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2023CAA.png" height=120 alt="Oracle Cloud Infrastructure Architect Associate - Jorge Luis Salcedo Prado"></a>
-
+</div>
 
 ---
 
