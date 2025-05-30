@@ -19,6 +19,7 @@
 <a href="https://www.credly.com/badges/9cb69f88-f5c2-4a35-a85c-c1d05cfc5460"><img src="https://images.credly.com/size/680x680/images/d611a2cb-c7bf-4917-aa42-a836ca6a0214/image.png" height=120 alt="Fortinet AWS Cloud Security 7.0 Administrator - Jorge Luis Salcedo Prado"></a>
 <a href="https://www.credly.com/badges/b5da4370-ad43-4881-8205-a0af033d4612"><img src="https://images.credly.com/size/680x680/images/60dbe6ec-05b8-45cd-9deb-d220bc19b7e1/image.png" height=120 alt="Amazon Connect Communications Specialist - Jorge Luis Salcedo Prado"></a>
 
+
 ---
 
 <div align="center">
