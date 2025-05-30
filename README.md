@@ -24,6 +24,12 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCBDDC87D9AD5E79F07F7357FEA67D85A4E18C53CA7C85F2302162B8672973C5" ><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024MCCA.png" height=120 alt="Oracle Cloud Infrastructure Multicloud Architect Associate - Jorge Luis Salcedo Prado"></a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCBDDC87D9AD5E79F07F7357FEA67D852C86ADADDD3369793034489E343E5EDB" ><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2023CAA.png" height=120 alt="Oracle Cloud Infrastructure Architect Associate - Jorge Luis Salcedo Prado"></a>
 </div>
+---
+
+<h3>My social networks</h3>
+<a href="https://www.instagram.com/jlsp98/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height=24></a>
+<a href="https://medium.com/@jorge.salcedo.eng" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" height=24/></a>
+<a href="https://stackoverflow.com/users/29183203/jorge-luis-salcedo-prado" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" height=24></a>
 
 ---
 
