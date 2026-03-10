@@ -2,8 +2,8 @@
 
 <p align="justify"> I am a passionate Cloud Engineer with experience in AWS, GCP, and hybrid environments. I help organizations scale securely and efficiently through cloud-native solutions </p>
 <div align="center">
-<a href="https://stackoverflow.com/users/29183203/jorge-luis-salcedo-prado"><img height="162px" src="https://stackoverflow-card.vercel.app/?userID=29183203&theme=stackoverflow-dark" alt="jorgesalcedoeng stackoverflow"/></a>
-<a href="https://github.com/jorgesalcedoeng"><img height="162px" src="https://github-readme-stats.vercel.app/api?username=jorgesalcedoeng&show_icons=true&theme=dracula&hide_border=true" alt="jorgesalcedoeng Github"/></a>
+<a href="https://stackoverflow.com/users/29183203/jorge-luis-salcedo-prado"><img src="https://stackoverflow-card.vercel.app/?userID=29183203&theme=stackoverflow-dark" alt="jorgesalcedoeng stackoverflow"/></a>
+<a href="https://github.com/jorgesalcedoeng"><img height="162px" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jorgesalcedoeng&layout=compact&langs_count=8" alt="jorgesalcedoeng Github"/></a>
 </a>
 </div>
 
